@@ -7,7 +7,7 @@
 <br/>  
 
 
-## My Skill Set  
+## <div align="center">My Skill Set</div> 
 <tr><td valign="top" width="60%">
 
 <div align="center">  
