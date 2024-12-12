@@ -1,4 +1,4 @@
-### <div align="center">I'm JJ_SHIM, a student developer 👨‍💻 studying computer engineering since 2022 🚀</div>  
+### <div align="center">I'm JJ_SHIM, a junior developer 👨‍💻 studying computer engineering since 2022 🚀</div>  
   
 
 <div align="center">🏫 HONGIK UNIV, COMPUTER ENGINEERING</div>  
