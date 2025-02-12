@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">👋 Welcome! I'm JJ_SHIM</div>  
+### <div align="center">👋 Welcome! I'm JJ_SHIM 👩🏻‍💻</div>  
   
 
 
