@@ -1,14 +1,6 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">👋 Welcome! I'm JJ_SHIM 👩🏻‍💻</div>  
-  
 
-
-
-### 🚀 a Junior Service Planner(PM) with a passion for AI, IT strategy, and seamless UX  
+### <div align="center">a Junior Service Planner(PM) with a passion for AI, IT strategy, and seamless UX</div> 
 - 🤖 Currently exploring AI-driven service planning and business-IT integration  
   
 
