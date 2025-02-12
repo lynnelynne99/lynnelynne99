@@ -2,6 +2,7 @@
 
 ### <div align="center">🌱 a Junior Service Planner(PM) with a passion for AI, IT strategy, and seamless UX</div> 
 <br/>  
+
 - 🤖 Currently exploring AI-driven service planning and business-IT integration  
   
 
