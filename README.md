@@ -8,7 +8,7 @@
 
 
 
-### 🚀Junior Service Planner(PM) with a passion for AI, IT strategy, and seamless UX  
+### 🚀 a Junior Service Planner(PM) with a passion for AI, IT strategy, and seamless UX  
 - 🤖 Currently exploring AI-driven service planning and business-IT integration  
   
 
